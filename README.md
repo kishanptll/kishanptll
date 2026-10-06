@@ -188,7 +188,7 @@ My current focus is building practical projects using **SQL, Python, Power BI an
 
 ## 🎯 Career Focus
 
-I’m currently looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities** where I can work on real business problems and continue developing my analytical skills.
+I’m currently looking for ** Data Analyst / Junior Data Analyst opportunities** where I can work on real business problems and continue developing my analytical skills.
 
 ### 💡 Interested in
 
