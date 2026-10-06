@@ -1,152 +1,230 @@
-# Hi 👋, I'm Kishan Patel
+<div align="center">
 
-### Entry-Level Data Analyst | SQL • Python • Power BI • Excel
+# Hi 👋, KISHAN PATEL
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Entry--Level%20Data%20Analyst-2ea44f?style=flat-square)](https://github.com/kishanptll)
+### 📊 Entry-Level Data Analyst
 
-I’m an aspiring **Data Analyst** with a B.E. in Computer Engineering and a PG Diploma in Data Science from GTU.
+**SQL** &nbsp;•&nbsp; **Python** &nbsp;•&nbsp; **Power BI** &nbsp;•&nbsp; **Excel**
 
-I enjoy turning raw data into clear, useful insights through **SQL, Python, Power BI and Excel**. I’m currently building practical analytics projects focused on business reporting, customer behavior, data visualization and predictive analysis.
+<br>
+
+<a href="https://www.linkedin.com/in/kishan-patell-dataanalyst/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:kishanpatel.nov25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1gLmtRnoKPNAlsI5Sgmx9iad1nVN7-Dk-/view">
+  <img src="https://img.shields.io/badge/Resume-View-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Entry--Level%20Data%20Analyst-2EA44F?style=flat-square" alt="Open to Work">
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 👋 About
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=kishanptll&show_icons=true&hide_rank=true&include_all_commits=true" height="165" alt="Kishan's GitHub statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishanptll&layout=compact&langs_count=6" height="165" alt="Kishan's most used languages" />
-</p>
+I’m an aspiring **Data Analyst** with a **B.E. in Computer Engineering** and a **PG Diploma in Data Science from GTU**.
 
-> GitHub activity and language information are generated dynamically. Language statistics represent code usage across GitHub repositories and should not be interpreted as skill rankings.
+I enjoy working with data to uncover patterns, answer business questions, and turn analysis into clear visual insights.
+
+My current focus is building practical projects using **SQL, Python, Power BI and Excel**, with an emphasis on business analytics, customer behavior and data visualization.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Analytics Toolkit
 
-### Data Analysis
-**SQL · Python · Pandas · NumPy**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Business Intelligence & Visualization
-**Power BI · Excel · Matplotlib · Seaborn**
+### 📊 Data Analysis
 
-### Databases
-**PostgreSQL · SQL Server**
+- SQL
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistics
 
-### Analytics
-**Data Cleaning · Exploratory Data Analysis · Statistics · Data Visualization**
+</td>
 
-### Machine Learning
-**Scikit-learn · Random Forest**
+<td width="50%" valign="top">
+
+### 📈 BI & Visualization
+
+- Power BI
+- Excel
+- Matplotlib
+- Seaborn
+- Data Visualization
+- Dashboard Development
+- Data Storytelling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+- PostgreSQL
+- SQL Server
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+- Scikit-learn
+- Random Forest
+- Classification
+- Predictive Analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### 1. Customer Shopping Behavior Analysis
+### 01 — 🛍️ Customer Shopping Behavior Analysis
 
-**3,900 purchase records | Python · PostgreSQL · Power BI**
+> **Understanding customer purchasing patterns through Python, SQL and Power BI.**
 
-An end-to-end customer shopping analysis focused on understanding purchasing patterns, customer segments and business behavior.
+**📊 3,900 purchase records**
 
-**Key work**
+**🧰 Stack**
+
+`Python` `Pandas` `PostgreSQL` `SQL` `Power BI`
+
+**🔍 What I worked on**
+
 - Cleaned and prepared the dataset using Python and Pandas
 - Handled 37 missing review-rating values
-- Created age-group and purchase-frequency features
-- Used PostgreSQL to answer business questions with SQL
+- Engineered age-group and purchase-frequency features
+- Used PostgreSQL to answer business questions
 - Performed customer segmentation and behavioral analysis
 - Built an interactive Power BI dashboard
 - Created a business presentation to communicate findings
 
-**Tools:** Python · Pandas · PostgreSQL · SQL · Power BI
+<div align="left">
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/kishanptll/customer_behaviour_analysis)
+<a href="https://github.com/kishanptll/customer_behaviour_analysis">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Customer Shopping Behavior Analysis">
+</a>
+
+</div>
 
 ---
 
-### 2. Telecom Customer Churn Analysis & Prediction
+### 02 — 📡 Telecom Customer Churn Analysis & Prediction
 
-**6,418 customers + 411 prediction records | SQL Server · Python · Power BI**
+> **Analyzing churn drivers and using machine learning to identify customers at risk of leaving.**
 
-An analytics and machine-learning project focused on understanding telecom customer churn and identifying customers who may be at risk of leaving.
+**📊 6,418 customers** &nbsp;•&nbsp; **🎯 411 prediction records**
 
-**Key work**
+**🧰 Stack**
+
+`SQL Server` `Python` `Scikit-learn` `Power BI`
+
+**🔍 What I worked on**
+
 - Performed ETL and data cleaning using SQL Server
-- Analyzed churn patterns across tenure, contracts, payment methods and services
-- Investigated major churn drivers and customer segments
-- Built a Random Forest classification model using Scikit-learn
-- Generated churn predictions for 411 customers
-- Combined churn analysis and prediction results in Power BI
-- Created visual reporting for both historical churn and predicted customers
+- Analyzed churn across tenure, contracts, payment methods and services
+- Investigated churn drivers and customer segments
+- Built a Random Forest classification model
+- Generated predictions for 411 customers
+- Combined historical churn analysis and prediction results in Power BI
+- Created visual reporting for churn and predicted customers
 
-**Tools:** SQL Server · Python · Scikit-learn · Power BI
+<div align="left">
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/kishanptll/telecom-churn-analysis)
+<a href="https://github.com/kishanptll/telecom-churn-analysis">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Telecom Churn Analysis">
+</a>
 
----
-
-## 📈 What I Focus On
-
-- Business-focused data analysis
-- SQL-based reporting and analysis
-- Customer and behavioral analytics
-- Data cleaning and exploratory analysis
-- Power BI dashboards and reporting
-- Data visualization and storytelling
-- Applying machine learning to practical business problems
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Activity
 
-- Advanced SQL
-- Power BI & DAX
-- Python for Data Analysis
-- Statistics
-- Machine Learning fundamentals
-- Data storytelling
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=kishanptll&show_icons=true&hide_rank=true&include_all_commits=true" height="170" alt="GitHub Statistics">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishanptll&layout=compact&langs_count=6" height="170" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+*📊 Building consistently. Learning continuously. Turning data into insights.*
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+`Advanced SQL` &nbsp; `Power BI / DAX` &nbsp; `Python for Data Analysis`
+
+`Statistics` &nbsp; `Machine Learning Fundamentals` &nbsp; `Data Storytelling`
 
 ---
 
 ## 🎯 Career Focus
 
-I am currently looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities** where I can contribute to real business problems while continuing to grow my analytical skills.
+I’m currently looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities** where I can work on real business problems and continue developing my analytical skills.
 
-I’m particularly interested in:
+### 💡 Interested in
 
-**Business Analytics · Customer Analytics · BI & Reporting · Data Visualization · SQL-based Analytics**
+**Business Analytics** &nbsp;•&nbsp;
+**Customer Analytics** &nbsp;•&nbsp;
+**BI & Reporting** &nbsp;•&nbsp;
+**Data Visualization** &nbsp;•&nbsp;
+**SQL Analytics**
 
 ---
 
 ## 🎓 Education
 
-**PG Diploma in Data Science — GTU**
+**PG Diploma in Data Science**  
+Gujarat Technological University (GTU)
 
 **B.E. in Computer Engineering**
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/kishanptll">
-    <img src="https://img.shields.io/badge/GitHub-kishanptll-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kishan-patell-dataanalyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kishan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kishanpatel.nov25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://drive.google.com/file/d/1gLmtRnoKPNAlsI5Sgmx9iad1nVN7-Dk-/view">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-2ea44f?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+### 🤝 Let's Connect
 
----
+<a href="https://github.com/kishanptll">🐙 GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/kishan-patell-dataanalyst/">💼 LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:kishanpatel.nov25@gmail.com">📧 Email</a>
+&nbsp;•&nbsp;
+<a href="https://drive.google.com/file/d/1gLmtRnoKPNAlsI5Sgmx9iad1nVN7-Dk-/view">📄 Resume</a>
 
-<p align="center">
-  <i>Building practical projects, learning continuously, and turning data into useful insights.</i>
-</p>
-```
+<br><br>
+
+<sub>📊 Data Analyst • SQL • Python • Power BI • Business Intelligence</sub>
+
+</div>
 
 
