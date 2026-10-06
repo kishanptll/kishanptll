@@ -1,4 +1,3 @@
-```markdown
 # Hi 👋, I'm Kishan Patel
 
 ### Entry-Level Data Analyst | SQL • Python • Power BI • Excel
