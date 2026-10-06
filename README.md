@@ -180,7 +180,7 @@ My current focus is building practical projects using **SQL, Python, Power BI an
 
 ## 📚 Currently Learning
 
-`Advanced SQL` &nbsp; `Power BI / DAX` &nbsp; `Python for Data Analysis`
+`SQL` &nbsp; `Power BI / DAX` &nbsp; `Python for Data Analysis`
 
 `Statistics` &nbsp; `Machine Learning Fundamentals` &nbsp; `Data Storytelling`
 
