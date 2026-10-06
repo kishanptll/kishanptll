@@ -2,7 +2,7 @@
 
 # Hi 👋, KISHAN PATEL
 
-### 📊 Entry-Level Data Analyst
+### 📊  Data Analyst
 
 **SQL** &nbsp;•&nbsp; **Python** &nbsp;•&nbsp; **Power BI** &nbsp;•&nbsp; **Excel**
 
